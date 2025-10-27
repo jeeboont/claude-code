@@ -1,0 +1,88 @@
+# Sample US Stock List
+# Add one stock symbol per line
+# Lines starting with # are ignored
+
+# Technology
+AAPL
+MSFT
+GOOGL
+AMZN
+META
+NVDA
+TSLA
+NFLX
+AMD
+INTC
+CRM
+ADBE
+ORCL
+CSCO
+AVGO
+
+# Finance
+JPM
+BAC
+WFC
+GS
+MS
+V
+MA
+AXP
+BLK
+SCHW
+
+# Healthcare
+JNJ
+UNH
+PFE
+ABBV
+TMO
+MRK
+ABT
+LLY
+BMY
+AMGN
+
+# Consumer
+WMT
+HD
+MCD
+NKE
+SBUX
+TGT
+LOW
+COST
+DIS
+PG
+
+# Energy
+XOM
+CVX
+COP
+SLB
+EOG
+PXD
+
+# Industrial
+BA
+CAT
+GE
+HON
+UPS
+LMT
+MMM
+DE
+
+# Communications
+T
+VZ
+TMUS
+CMCSA
+
+# Other
+PYPL
+SQ
+UBER
+ABNB
+COIN
+ROKU
